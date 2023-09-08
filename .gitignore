@@ -1,4 +1,5 @@
 venv
-settings.py
+#settings.py
 __pycache__
 migrations
+.gitignore

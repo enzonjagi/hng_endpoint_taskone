@@ -11,9 +11,13 @@ import pytz
 
 class GetInfo(APIView):
     """A View for the JSON Information needed
+
+    by Njagi Ndungo
     
     Methods:
-        - get: Get the required JSON info and display in the view.
+        - get: Get the required request info, from the url and display in the view.
+
+        The Information shared in the url reflects in the request below.
     
     """
 
